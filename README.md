@@ -1,8 +1,18 @@
-# React + Vite
+# **Futuristic Gym Website Clone**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### **Descrição**
 
-Currently, two official plugins are available:
+Este projeto é uma réplica do design da comunidade Figma disponível em https://www.figma.com/community/file/1424371571438932291, desenvolvido com as seguintes tecnologias:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React:** Biblioteca JavaScript para construção de interfaces de usuário.
+- **Vite:** Ferramenta de build rápida para desenvolvimento frontend.
+- **Styled Components:** Biblioteca CSS-in-JS para estilizar componentes React.
+- **Vercel:** Plataforma de deployment para aplicações web.
+
+### **Objetivo**
+
+O objetivo principal deste projeto é:
+
+- **Aprendizado:** Consolidar conhecimentos em React, Vite e Styled Components.
+- **Prática:** Aplicar conceitos de desenvolvimento frontend em um projeto real.
+- **Portfólio:** Demonstrar habilidades de desenvolvimento.
